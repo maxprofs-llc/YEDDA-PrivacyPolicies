@@ -87,14 +87,22 @@ Important features:比较难用
 
 标签解释：
 ====
-Collect personal information 
+* Collect personal information 
+
 收集个人数据，个人数据指的是能够识别个人身份的数据，例如身份证号，IP地址，收集多种信息时，如果收集的信息中有提到个人信息的，则标为这个标签
+
 When you play one of our games, DianDian collects and stores certain personal information and non-personal information that you provide directly
+
 we will collect any information that you have agreed to make available to Hongarden Limited through such account, which may include: (1) your first and last name, (2) your user ID/URL, (3) your profile picture, (4) your list of friends, (5) your email address, and/or (6) your birthday.
-Not collect personal information (Collect non-personal information)
+
+* Not collect personal information (Collect non-personal information)
+
 作为上一个的标签的负样本，有一些句子只差了一两个单词，但使句子的意义恰好相反
+
 We do not knowingly collect personally identifiable information.
+
 We may collect non-personal information about you through our Service.
+
 Data retention period
 数据存储期限
 RETENTION PERIOD OF YOUR PERSONAL INFORMATION
