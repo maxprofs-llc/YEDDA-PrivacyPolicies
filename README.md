@@ -105,27 +105,27 @@ We may use and process your Personal Information for one of the following purpos
 * ***"The contact details of the controller"*** 
 数据控制方的联系方式，就是指收集数据的公司的联系方式
 In case you have any questions with regard to this Privacy Policy, please, contact us via email at support@swagmasha.com,
-* ***"The contact details of the data protection officer***
+* ***"The contact details of the data protection officer"***
 数据保护官的联系方式，一般都会出现专有名词 “data protection officer”
 You may contact Tastypill’s Data Protection Officer at dataprotection@tastypill.com or the address below for further information.
-* ***"Access personal data ***
+* ***"Access personal data"***
 访问个人数据的权利
 You have the right to access your Personal Information.
-* ***"Rectification or erasure of personal data ***
+* ***"Rectification or erasure of personal data"***
 擦除或更改个人数据的权利，提到擦除或更改个人数据的都是此标签。只提到访问的不算此标签
 Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
 Right to erasure: you have the right to have your data deleted in certain circumstances.
-* ***"Restriction of processing ***
+* ***"Restriction of processing"***
 限制处理个人数据的权利
 Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
-* ***"Object to processing ***
+* ***"Object to processing"***
 拒绝处理个人数据的权利
 Right to object: in certain circumstances (including where data is processed on he basis of legitimate interests or for the purposes of marketing) you may object to that processing.
-* ***"Data portability ***
+* ***"Data portability"***
 数据携带权，指用户是否能获得一份自己数据的拷贝
 Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider.
 RIGHT TO RECEIVE A COPY OF YOUR PERSONAL INFORMATION
-* ***"Lodge a complaint ***
+* ***"Lodge a complaint"***
 向监管机构申诉的权利
 If you wish to make a complaint over the processing of your personal data, you have the right to lodge a complaint to the relevant supervisory authority.
 
