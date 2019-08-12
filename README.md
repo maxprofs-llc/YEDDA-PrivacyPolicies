@@ -87,18 +87,48 @@ Important features:比较难用
 
 标签解释：
 ====
-第一方指的是，这篇隐私政策的公司。第三方，指的是和第一方公司合作或是广告，会分享数据，比如分享给facebook等等。
-* First Party Collection/Use: 第一方收集使用数据，（即这家公司会收集的数据，一般是我们会收集你的xxx，使用你的XXX）
-* Third Party Sharing/Collection: 第三方数据收集，或是数据分享给第三方。一般有share等关键词，还有广告也算在内。
-* User Choice/Control: 用户选择控制的选项，一般会有链接，或是用户按钮，或是opt-in， opt-out之类的关键词
-* User Access, Edit, & Deletion: 是否用户可以访问修改删除数据，用户怎样访问修改删除数据。
-* Data Retention: 用户的数据会被公司保留多长时间。一般都有retention，save之类关键词，后面一半会有时间段，或是我们会保留您的数据直到***时候为止。
-* Data Security: 用户的隐私政策是怎么保护的
-* Policy Change: 隐私政策的修改， 比如这篇隐私政策和上一个版本相比更新了。。。 上次更新时间
-* Do Not Track: 是否有Do Not Track标志，或是否有不允许追踪信息数据相关说明
-* International & Specific Audiences: 特殊群体相关。小孩子，残疾人，某个地区或者国家的人
-* Introductory/Generic: 普通的介绍隐私政策。开始一般都会有一大段。
-* Privacy Contact Information: 隐私政策 公司联系方式，邮编地址之类的， 一般出现在结尾
+Collect personal information 
+收集个人数据，个人数据指的是能够识别个人身份的数据，例如身份证号，IP地址，收集多种信息时，如果收集的信息中有提到个人信息的，则标为这个标签
+When you play one of our games, DianDian collects and stores certain personal information and non-personal information that you provide directly
+we will collect any information that you have agreed to make available to Hongarden Limited through such account, which may include: (1) your first and last name, (2) your user ID/URL, (3) your profile picture, (4) your list of friends, (5) your email address, and/or (6) your birthday.
+Not collect personal information (Collect non-personal information)
+作为上一个的标签的负样本，有一些句子只差了一两个单词，但使句子的意义恰好相反
+We do not knowingly collect personally identifiable information.
+We may collect non-personal information about you through our Service.
+Data retention period
+数据存储期限
+RETENTION PERIOD OF YOUR PERSONAL INFORMATION
+We will also keep it for longer if we cannot delete it for legal or regulatory reasons.
+The purposes of the processing 
+处理个人数据的目的，这里是处理的目的，有时候提到的是收集的目的，语义上有一点区别。
+We may use and process your Personal Information for one of the following purposes: 
+The contact details of the controller 
+数据控制方的联系方式，就是指收集数据的公司的联系方式
+In case you have any questions with regard to this Privacy Policy, please, contact us via email at support@swagmasha.com,
+The contact details of the data protection officer
+数据保护官的联系方式，一般都会出现专有名词 “data protection officer”
+You may contact Tastypill’s Data Protection Officer at dataprotection@tastypill.com or the address below for further information.
+Access personal data 
+访问个人数据的权利
+You have the right to access your Personal Information.
+Rectification or erasure of personal data 
+擦除或更改个人数据的权利，提到擦除或更改个人数据的都是此标签。只提到访问的不算此标签
+Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
+Right to erasure: you have the right to have your data deleted in certain circumstances.
+Restriction of processing 
+限制处理个人数据的权利
+Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
+Object to processing 
+拒绝处理个人数据的权利
+Right to object: in certain circumstances (including where data is processed on he basis of legitimate interests or for the purposes of marketing) you may object to that processing.
+Data portability 
+数据携带权，指用户是否能获得一份自己数据的拷贝
+Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider.
+RIGHT TO RECEIVE A COPY OF YOUR PERSONAL INFORMATION
+Lodge a complaint 
+向监管机构申诉的权利
+If you wish to make a complaint over the processing of your personal data, you have the right to lodge a complaint to the relevant supervisory authority.
+
 
 下面是label 相应参考关键词(有些词不太准，帮助理解)
 ====
