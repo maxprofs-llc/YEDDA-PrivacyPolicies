@@ -87,46 +87,46 @@ Important features:比较难用
 
 标签解释：
 ====
-* ***Collect personal information***
-收集个人数据，个人数据指的是能够识别个人身份的数据，例如身份证号，IP地址，收集多种信息时，如果收集的信息中有提到个人信息的，则标为这个标签  
+* ***Collect personal information***  
+**收集个人数据，个人数据指的是能够识别个人身份的数据，例如身份证号，IP地址，收集多种信息时，如果收集的信息中有提到个人信息的，则标为这个标签**  
 When you play one of our games, DianDian collects and stores certain personal information and non-personal information that you provide directly  
 we will collect any information that you have agreed to make available to Hongarden Limited through such account, which may include: (1) your first and last name, (2) your user ID/URL, (3) your profile picture, (4) your list of friends, (5) your email address, and/or (6) your birthday.  
 * ***Not collect personal information (Collect non-personal information)***  
-作为上一个的标签的负样本，有一些句子只差了一两个单词，但使句子的意义恰好相反  
+**作为上一个的标签的负样本，有一些句子只差了一两个单词，但使句子的意义恰好相反**  
 We do not knowingly collect personally identifiable information.  
 We may collect non-personal information about you through our Service.  
 * ***Data retention period***  
-数据存储期限  
+**数据存储期限**  
 RETENTION PERIOD OF YOUR PERSONAL INFORMATION  
 We will also keep it for longer if we cannot delete it for legal or regulatory reasons.  
 * ***The purposes of the processing***   
-处理个人数据的目的，这里是处理的目的，有时候提到的是收集的目的，语义上有一点区别。  
+**处理个人数据的目的，这里是处理的目的，有时候提到的是收集的目的，语义上有一点区别**  
 We may use and process your Personal Information for one of the following purposes:   
 * ***The contact details of the controller***   
-数据控制方的联系方式，就是指收集数据的公司的联系方式  
+**数据控制方的联系方式，就是指收集数据的公司的联系方式**  
 In case you have any questions with regard to this Privacy Policy, please, contact us via email at support@swagmasha.com,  
 * ***The contact details of the data protection officer***  
-数据保护官的联系方式，一般都会出现专有名词 “data protection officer”  
+**数据保护官的联系方式，一般都会出现专有名词 “data protection officer”**  
 You may contact Tastypill’s Data Protection Officer at dataprotection@tastypill.com or the address below for further information.  
 * ***Access personal data***  
-访问个人数据的权利  
+**访问个人数据的权利**  
 You have the right to access your Personal Information.  
 * ***Rectification or erasure of personal data***  
-擦除或更改个人数据的权利，提到擦除或更改个人数据的都是此标签。只提到访问的不算此标签  
+**擦除或更改个人数据的权利，提到擦除或更改个人数据的都是此标签。只提到访问的不算此标签**  
 Right of rectification: if the data held is inaccurate, you have the right to have it corrected.  
 Right to erasure: you have the right to have your data deleted in certain circumstances.  
 * ***Restriction of processing***  
-限制处理个人数据的权利  
+**限制处理个人数据的权利**  
 Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.  
 * ***Object to processing***  
-拒绝处理个人数据的权利  
+**拒绝处理个人数据的权利**  
 Right to object: in certain circumstances (including where data is processed on he basis of legitimate interests or for the purposes of marketing) you may object to that processing.  
 * ***Data portability***  
-数据携带权，指用户是否能获得一份自己数据的拷贝  
+**数据携带权，指用户是否能获得一份自己数据的拷贝**  
 Right to data portability: you can request a copy of your data in a machine-readable form that can be transferred to another provider.  
 RIGHT TO RECEIVE A COPY OF YOUR PERSONAL INFORMATION  
 * ***Lodge a complaint***  
-向监管机构申诉的权利  
+**向监管机构申诉的权利**  
 If you wish to make a complaint over the processing of your personal data, you have the right to lodge a complaint to the relevant supervisory authority.  
 
 
